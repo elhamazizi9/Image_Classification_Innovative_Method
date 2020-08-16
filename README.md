@@ -21,7 +21,7 @@ https://www.kaggle.com/c/cifar-10
 In this project, we have first classified images into two categories: Animal, Vehicle. Then these images were categorized in their main labels like frogs, ships, and so forth.
 By doing this we reached a higher average accuracy resulting in how better it would be if one first modularize its dataset and then train it.
 
-
+This kind of modularization may help many models and projects as well as our's in accuracy.
 I have also uploaded the old method which were mostly used.
 
 ---------------------------------------------------------------------------------------------------------------------------------
