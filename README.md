@@ -28,6 +28,7 @@ I have also uploaded the old method which were mostly used.
 We ended having 65% accuracy by the old used method and architecture of this classification; however, With the new method we have achieved 95% accuracy in the first step and 71.5 accuracy in followed steps which means on average, we have gained a better accuracy.
 
 This kind of modularization may help many models and projects as well as our's in accuracy.
+
 ---------------------------------------------------------------
 <a href="http://uupload.ir/" target="_blank"><img src="http://uupload.ir/files/zyo_1.jpg" border="0" alt="آپلود عکس" /></a>
 
